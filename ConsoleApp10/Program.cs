@@ -4,8 +4,8 @@ using System.Collections;
 
 //public class Range<T> where T : IComparable<T>
 //{
-//    public T Minimum { get; private set; }
-//    public T Maximum { get; private set; }
+//    public T Minimum { get;set; }
+//    public T Maximum { get;set; }
 
 //    public Range(T minimum, T maximum)
 //    {
